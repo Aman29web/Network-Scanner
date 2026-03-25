@@ -1,5 +1,5 @@
 ﻿# Network-Scanner
- # Simple Network Scanner 🔍
+ # Simple Network Scanner 
 
 A full-stack web application that scans a network and detects open ports using **Nmap**.  
 Users can enter an IP address or network range and view open ports in a clean UI.  
@@ -7,7 +7,7 @@ Scan results are saved in **MongoDB Atlas** for future reference.
 
 ---
 
-## Features 🚀
+## Features 
 
 - Scan network using Nmap
 - Detect open ports and services
@@ -19,7 +19,7 @@ Scan results are saved in **MongoDB Atlas** for future reference.
 
 ---
 
-## Tech Stack 💻
+## Tech Stack 
 
 Frontend:
 - React.js
@@ -48,7 +48,7 @@ Tool:
 
 ---
 
-## Project Structure 📁
+## Project Structure 
 
 network-scanner
 │
@@ -64,7 +64,7 @@ network-scanner
 
 ---
 
-## Installation Guide 🛠️
+## Installation Guide 
 
 ### 1. Clone project
 
@@ -128,7 +128,7 @@ npm start
 
 ---
 
-## Usage 📊
+## Usage 
 
 Enter IP address:
 
@@ -146,7 +146,7 @@ View open ports in table.
 
 ---
 
-## Example Output 📋
+## Example Output 
 
 Port     Status    Service  
 135/tcp  open      msrpc  
@@ -155,7 +155,7 @@ Port     Status    Service
 
 ---
 
-## Future Improvements 💡
+## Future Improvements 
 
 - Better UI using Tailwind CSS
 - Scan history page
@@ -165,12 +165,6 @@ Port     Status    Service
 
 ---
 
-## Author 👨‍💻
+## Author 
 
 Aman Singh
-
----
-
-## License 📄
-
-This project is for learning purposes.
