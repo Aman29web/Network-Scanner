@@ -37,7 +37,7 @@ Tool:
 
 ---
 
-## How It Works ⚙️
+## How It Works 
 
 1. User enters IP address (example: 127.0.0.1)
 2. Frontend sends request to backend
